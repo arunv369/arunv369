@@ -6,7 +6,15 @@
 I'm  
 MERN STACK DEVELOPER
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB)
+
+ ![Visitor Count](https://profile-counter.glitch.me/arunv369/count.svg)
  
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://justpaste.it/redirect/ai6sp/https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">    
+    <img src="https://github-profile-trophy.vercel.app/?username=arunv369&column=7"/>
+  </a>
+</div>
 
  
 Languages and Tools: 
